@@ -1,0 +1,9 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: coral;
+    margin: auto;
+    padding: 50px;
+    border-right: 5px solid rgb(0, 51, 192);
+    border-radius: 30px; /*untuk membuat lengkungan dipojok kotak */ 
+}
